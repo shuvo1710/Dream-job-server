@@ -1,0 +1,223 @@
+[
+    {
+      "job_title": "Web Development",
+      "job": [
+        {
+          "title": "Web Developer",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "requirements": [
+            "Designing the backend and front end of HTML, CSS websites",
+            "Integrating the sites with third parties",
+            " manage Product and process order - e-commerce site",
+            "Writting reuseable code"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+        {
+          "title": "ReactJS Develooper",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "requirements": [
+            "Proficient in ReactJS and related technologies",
+            "Familiarity with server-side rendering and state management libraries (such as Redux)",
+            "Knowledge of modern front-end build pipelines and tools",
+            "Strong problem-solving and analytical skills",
+            "Experience with version control (such as Git)",
+            "Good communication and collaboration skills"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Designer",
+      "job": [
+        {
+          "title": "Product Designer",
+          "location": "Uttara, Dhaka",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "requirements": [
+            "makes a practical and functional product",
+            "artistic and attractive to a consumer as possible",
+            "It takes creativity, consumer-savvy, and the know-how to take a product from ideation all the way to productcode"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Civil Engineer",
+      "job": [
+        {
+          "title": "Civil Engineer",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "B.Sc degree in Civil Engineering",
+          "required_skill": "Complete a bachelor degree in civil engineering",
+          "requirements": [
+            "plan, design and manage large construction projects",
+            "This could include bridges, buildings, transport links and other major structures",
+            "use computer modelling software and data from surveys, tests and maps to create project blueprints"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Financial accountant",
+      "job": [
+        {
+          "title": "Financial accountant",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-2 years experience required",
+          "Degree": "BBA degree in Finance",
+          "required_skill": "To be qualified for this role, you should have a degree in Accounting and relevant work experience",
+          "requirements": [
+            "budgeting, managing tax payments and performing internal audits",
+            "conducting cost and revenues analyses",
+            "use computer modelling software and data from surveys, tests and maps to create project blueprints"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Electrician",
+      "job": [
+        {
+          "title": "Electricial",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-2 years experience required",
+          "Degree": "Electrical engineering technology or electronics engineering",
+          "required_skill": "Electronic engineering.",
+          "requirements": [
+            "Inspecting, testing, repairing, installing, and modifying electrical components and systems",
+            "Work at homes, businesses, and construction sites, and generally work as contractors."
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Photography",
+      "job": [
+        {
+          "title": "Photographer",
+          "location": "Dhanmondi, Dhaka",
+          "Experience": "Minimum 3 years experience needed",
+          "Degree": "Not required",
+          "required_skill": "skill in photography",
+          "requirements": [
+            "Proficient in using various types of cameras and equipment",
+            "Strong skills in posing, lighting, and editing",
+            "Ability to work well with clients",
+            "Familiarity with photo editing software (such as Adobe Photoshop)",
+            "Good communication and collaboration skills",
+            "Strong attention to detail"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Architecture",
+      "job": [
+        {
+          "title": "Architect",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-3 years",
+          "Degree": "BSc degree in Architecture",
+          "required_skill": "An interior designer is responsible for designing and planning the interior spaces of buildings. They should have strong skills in design, color theory, and project management",
+          "requirements": [
+            "Proficient in using design software (such as AutoCAD or SketchUp)",
+            "Strong skills in design, color theory, and project management",
+            "Ability to work well with clients and other professionals",
+            "Good communication and collaboration skills",
+            "Strong attention to detail",
+            "Bachelor's or Master's degree in Interior Design"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Analytics",
+      "job": [
+        {
+          "title": "Data Analytics",
+          "location": "Gazipur, Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "requirements": [
+            "Proficient in using statistical analysis software (such as R or Python)",
+            "Strong skills in data visualization and communication",
+            "Ability to work well with clients and other professionals",
+            "Good communication and collaboration skills",
+            "Strong attention to detail",
+            "Bachelor's or Master's degree in Data Analytics or a related field"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Artificial Intelligence",
+      "job": [
+        {
+          "title": "Machine Learning Engineer",
+          "location": "Gazipur,Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Python, Java, or C++",
+          "requirements": [
+            "Strong programming skills in languages like Python, Java, or C++",
+            "Experience with data analysis and visualization tools such as NumPy, Pandas, or Matplotlib",
+            "Strong understanding of statistical modeling, machine learning algorithms, and deep learning techniques",
+            "Ability to work well with clients and other professionals",
+            "Good communication and collaboration skills",
+            "Bachelor's or Master's degree in Computer Science, Data Science, or a related field"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    },
+    {
+      "job_title": "Marketing & sales",
+      "job": [
+        {
+          "title": "Marketing and sales man",
+          "location": "Gazipur,Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "requirements": [
+            "Strong skills in market research, campaign planning, and team management",
+            "Ability to work well with clients and other professionals",
+            "Good communication and collaboration skills",
+            "Strong attention to detail",
+            "Bachelor's or Master's degree in Marketing or a related field"
+          ],
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        }
+      ]
+    }
+  ]
