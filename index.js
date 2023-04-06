@@ -28,12 +28,26 @@ async function run(){
         // await client.connect();
 
         const categoryCollection = client.db('dreamJob').collection('category');
+        const jobTitleCollection = client.db('dreamJob').collection('jobTitle');
+
+
+        app.get('/jobTitle', async (req, res) => {
+            const query = {};
+            const result = await jobTitleCollection.find(query).toArray();
+            res.send(result);
+        });
 
         app.get('/category', async (req, res) => {
-
+            if (req.query.job_title) {
+                const query = { job_title: req.query.job_title };
+                const result = await categoryCollection.find(query).toArray();
+                res.send(result);
+            }
+            else {
                 const query = {};
                 const result = await categoryCollection.find(query).toArray();
                 res.send(result);
+            }
         });
 
         app.get('/category/:id', async (req, res) => {

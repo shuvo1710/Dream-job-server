@@ -1,7 +1,25 @@
 [
     {
           "job_title": "Web Development",
+          "location": "Cumilla",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "Web Development",
           "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "Web Development",
+          "location": "Chittagong",
           "Experience": "Minimum 2-3 years experience required",
           "Degree": "We don't show your bachelor degree",
           "required_skill": "HTML, CSS, JavaScript",
@@ -16,11 +34,49 @@
           "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
           "job_type": "Full-time",
           "deadline": "01-05-2023"
-        },
+    },
+    {
+          "job_title": "ReactJS Develooper",
+          "location": "Cumiila, Chouddagram",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "ReactJS Develooper",
+          "location": "Chittagong",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
     {
       "job_title": "Designer",
           "title": "Product Designer",
-          "location": "Uttara, Dhaka",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+      },
+    {
+      "job_title": "Designer",
+          "title": "Product Designer",
+          "location": "Chittagong",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+      },
+    {
+      "job_title": "Designer",
+          "title": "Product Designer",
+          "location": "Dhaka",
           "Experience": "Minimum 2-5 years experience required",
           "Degree": "We don't show your bachelor degree",
           "required_skill": "UX design, interaction/UI design, and visual design",
@@ -101,6 +157,26 @@
       "job_title": "Marketing & sales",
           "title": "Marketing and sales man",
           "location": "Gazipur,Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Marketing & sales",
+          "title": "Marketing and sales man",
+          "location": "Mirpur, Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Marketing & sales",
+          "title": "Marketing and sales man",
+          "location": "Chittagong",
           "Experience": "2-3 years experience needed",
           "Degree": "BSc degree in Data Science",
           "required_skill": "Good data analyzer",
