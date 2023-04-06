@@ -1,0 +1,186 @@
+[
+    {
+          "job_title": "Web Development",
+          "location": "Cumilla",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "Web Development",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "Web Development",
+          "location": "Chittagong",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "ReactJS Develooper",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "ReactJS Develooper",
+          "location": "Cumiila, Chouddagram",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+          "job_title": "ReactJS Develooper",
+          "location": "Chittagong",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "HTML, CSS, JavaScript, ReactJS, Redux",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Designer",
+          "title": "Product Designer",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+      },
+    {
+      "job_title": "Designer",
+          "title": "Product Designer",
+          "location": "Chittagong",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+      },
+    {
+      "job_title": "Designer",
+          "title": "Product Designer",
+          "location": "Dhaka",
+          "Experience": "Minimum 2-5 years experience required",
+          "Degree": "We don't show your bachelor degree",
+          "required_skill": "UX design, interaction/UI design, and visual design",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+      },
+    {
+      "job_title": "Civil Engineer",
+          "title": "Civil Engineer",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 2-3 years experience required",
+          "Degree": "B.Sc degree in Civil Engineering",
+          "required_skill": "Complete a bachelor degree in civil engineering",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Financial accountant",
+          "title": "Financial accountant",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-2 years experience required",
+          "Degree": "BBA degree in Finance",
+          "required_skill": "To be qualified for this role, you should have a degree in Accounting and relevant work experience",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Electrician",
+          "title": "Electricial",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-2 years experience required",
+          "Degree": "Electrical engineering technology or electronics engineering",
+          "required_skill": "Electronic engineering.",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+    {
+      "job_title": "Photography",
+          "title": "Photographer",
+          "location": "Dhanmondi, Dhaka",
+          "Experience": "Minimum 3 years experience needed",
+          "Degree": "Not required",
+          "required_skill": "skill in photography",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+    {
+      "job_title": "Architecture",
+          "title": "Architect",
+          "location": "Mirpur, Dhaka",
+          "Experience": "Minimum 1-3 years",
+          "Degree": "BSc degree in Architecture",
+          "required_skill": "An interior designer is responsible for designing and planning the interior spaces of buildings. They should have strong skills in design, color theory, and project management",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+    {
+      "job_title": "Analytics",
+          "title": "Data Analytics",
+          "location": "Gazipur, Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+    {
+      "job_title": "Artificial Intelligence",
+          "title": "Machine Learning Engineer",
+          "location": "Gazipur,Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Python, Java, or C++",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+        },
+    {
+      "job_title": "Marketing & sales",
+          "title": "Marketing and sales man",
+          "location": "Gazipur,Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Marketing & sales",
+          "title": "Marketing and sales man",
+          "location": "Mirpur, Dhaka",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    },
+    {
+      "job_title": "Marketing & sales",
+          "title": "Marketing and sales man",
+          "location": "Chittagong",
+          "Experience": "2-3 years experience needed",
+          "Degree": "BSc degree in Data Science",
+          "required_skill": "Good data analyzer",
+          "job_type": "Full-time",
+          "deadline": "01-05-2023"
+    }
+  ]
